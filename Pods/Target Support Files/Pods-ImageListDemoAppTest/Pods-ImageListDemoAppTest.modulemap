@@ -1,0 +1,6 @@
+framework module Pods_ImageListDemoAppTest {
+  umbrella header "Pods-ImageListDemoAppTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
